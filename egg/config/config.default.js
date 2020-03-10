@@ -42,7 +42,7 @@ module.exports = appInfo => {
   // config.compress = {
   //   threshold: 2048,
   // };
-  config.api = 'http://192.168.170.52/'
+  config.api = ''
   config.mysql = {
     //database configuration 
     client: {
